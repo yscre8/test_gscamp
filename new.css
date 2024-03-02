@@ -1,0 +1,39 @@
+body {
+	background-color: rgba(244, 249, 237, 1.00);
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.kaitou {
+	width: 300px;
+	height: 40px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	font-size: 120%;
+	line-height: 130%;
+}
+
+.ans_btn {
+	margin-top: 15px;
+}
+
+.all_box {
+	background-image: url(img/shijyushichi.png);
+	padding-top: 40px;
+	padding-right: 40px;
+	padding-bottom: 100px;
+	padding-left: 40px;
+}
+
+.rst_btn {
+	text-align: center;
+}
+
+.ans_rslt {
+	color: #FF0000;
+}
